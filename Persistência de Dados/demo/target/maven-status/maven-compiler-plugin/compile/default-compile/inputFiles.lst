@@ -1,0 +1,14 @@
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/DemoApplication.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/controller/EmpresaController.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/controller/PessoaController.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/model/Empresa.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/model/Pessoa.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/model/PessoaFisica.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/model/PessoaJuridica.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/model/Usuario.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/repository/EmpresaRepository.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/repository/PessoaFisicaRepository.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/repository/PessoaJuridicaRepository.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/repository/PessoaRepository.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/service/EmpresaService.java
+/Users/rafaelajunqueira/Downloads/pasta sem título/demo/src/main/java/com/example/demo/service/PessoaService.java
